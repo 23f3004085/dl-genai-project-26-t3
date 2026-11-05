@@ -1,0 +1,19 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Dataset
+data/
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+models/*
+!models/.gitkeep
